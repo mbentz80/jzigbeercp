@@ -25,7 +25,6 @@
 
 #include <iostream>
 #include <cstdlib>
-
 using namespace std;
 struct JAUSHeader {	//16 Bytes of the JAUS Header
 	unsigned short message_properties;
