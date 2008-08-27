@@ -1,0 +1,3 @@
+Author: David Cournapeau <david@ar.media.kyoto-u.ac.jp>
+Copyright: 2006
+License: BSD-style license. See LICENSE.txt in the scipy source directory.
